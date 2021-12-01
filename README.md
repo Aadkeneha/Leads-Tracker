@@ -1,8 +1,9 @@
-# title(){return this.options.title||this.options.name}
 # Lead Tracker
 - This a chrome extension that is developed using Html,CSS,Js.
 - It saves the tab links that we want to save and preserve it.
 - You can even delete all the links afterwards.
+
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
